@@ -18,3 +18,4 @@ hell this is 一个悬浮模式，像报纸一样
 
 haha
 
+Note: this is note

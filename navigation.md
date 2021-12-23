@@ -19,3 +19,15 @@
 [Menu Item 2](item2.md)
 - - - -
 [Menu Item 3](item3.md)
+
+[gimmick:theme (inverse: false)](spacelab)
+
+[gimmick:ThemeChooser](Change theme)
+
+[gimmick:forkmeongithub](http://github.com/my-wiki/my-wiki/)
+
+
+
+
+
+

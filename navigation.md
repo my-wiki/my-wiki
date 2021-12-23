@@ -20,11 +20,6 @@
 - - - -
 [Menu Item 3](item3.md)
 
-[gimmick:theme (inverse: false)](spacelab)
-
-[gimmick:ThemeChooser](Change theme)
-
-[gimmick:forkmeongithub](http://github.com/my-wiki/my-wiki/)
 
 
 
